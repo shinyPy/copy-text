@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Copy 刺猬猫 Text",
+    "version": "1.0",
+    "description": "Copies all content chapter from 刺猬猫 to the clipboard.",
+    "icons": {
+      "48": "icons/icon.png"
+    },
+    "permissions": [
+      "clipboardWrite",
+      "activeTab",
+      "scripting"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icons/icon.png"
+    }
+  }
+  
