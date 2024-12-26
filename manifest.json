@@ -14,6 +14,12 @@
     "action": {
       "default_popup": "popup.html",
       "default_icon": "icons/icon.png"
+    },
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "ciweimaocopy@shinypy.com",
+        "strict_min_version": "91.0"
+      }
     }
   }
   
